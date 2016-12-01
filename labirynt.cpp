@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -98,3 +99,15 @@ char index[3];
   // delete[] map;
 
 }
+=======
+#include<iostream>
+
+using namespace std;
+
+
+int main()
+{
+	cout << "test";
+
+}
+>>>>>>> Stashed changes
