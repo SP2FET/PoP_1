@@ -1,4 +1,4 @@
-
+// POP 2016 12 09 projekt 1 Cichocki Bartosz AIR 2 165355 Srodowisko: Dev-C++ 5.10 Kompilator: TDM-GCC 4.8.1 64-bit Release
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
